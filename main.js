@@ -1,6 +1,10 @@
 let name = prompt('what do you want to do? (add, sub, mult, div)', '');
 let a;
 let b;
+let c;
+let d;
+let e;
+let f;
 
 if (name == 'add'){
     a=Number(prompt("first number",""));
