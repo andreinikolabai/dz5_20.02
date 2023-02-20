@@ -1,4 +1,4 @@
-let name = prompt('what do you want to do?', '');
+let name = prompt('what do you want to do? (add, sub, mult, div)', '');
 let a;
 let b;
 
